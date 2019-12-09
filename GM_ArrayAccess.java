@@ -1,5 +1,5 @@
 package javapackage;
-
+/* Find the missing number in an array of continous numbers */
 public class GM_ArrayAccess {
 
 	public static void main(String[] args) {
