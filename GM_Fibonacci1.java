@@ -1,5 +1,5 @@
 package javapackage;
-
+/*Fibonacci Series of a perticular number*/
 public class GM_1 {
 
 		   public static long fib(long n) {
